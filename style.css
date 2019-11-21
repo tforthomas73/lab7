@@ -23,3 +23,9 @@
     font-weight: bold;
     transition: 0.3s;
 }
+#entrybutton:hover
+{
+    width: 220px;
+    background-color: #ff0000;
+    cursor: pointer;
+}
